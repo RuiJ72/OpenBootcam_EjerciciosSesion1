@@ -8,4 +8,4 @@ Console.WriteLine("Introduce tu nombre para saberes la fecha e hora en tu zona h
 string name = Console.ReadLine();
 
 Console.WriteLine();
-Console.WriteLine("Tu nombre es " + name + ", y la fecha y hora del lugar donde te encuentras es el: " + DateTime.Now);
+Console.WriteLine("Tu nombre es " + name + ", y la fecha y hora del lugar donde te encuentras es : " + DateTime.Now);
